@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.json
+!ds_z3_offload_config.json
+ttme_memory_storage.json
+.swanlab/
+*.egg-info/
+dist/
+build/* . p a r q u e t 
+ 
+ 
