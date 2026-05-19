@@ -4,6 +4,7 @@
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Paper: ICML 2026](https://img.shields.io/badge/Paper-ICML%202026-red.svg)](https://icml.cc/virtual/2026/poster/65853)
 [![Dataset](https://img.shields.io/badge/🤗_HuggingFace-SE--GA-yellow)](https://huggingface.co/datasets/waterphd/SE-GA-dataset)
+[![Project Page](https://img.shields.io/badge/Project%20Page-Homepage-blue)](https://jinshilong-dev.github.io/SE-GA-project/)
 
 This is the implementation code for the paper "SE-GA: Memory-Augmented Self-Evolution for GUI Agents". This work has been accepted by ICML 2026.
 
@@ -191,11 +192,14 @@ python -m gui_sega.ttme.memory_example
 If you find this work helpful, please consider citing our paper:
 
 ```bibtex
-@inproceedings{sega2026gui,
-  title={SE-GA: Memory-Augmented Self-Evolution for GUI Agents},
-  author={Shilong Jin, Lanjun Wang, and Zhuosheng Zhang},
-  booktitle={Proceedings of the 43rd International Conference on Machine Learning (ICML)},
-  year={2026}
+@misc{jin2026segamemoryaugmentedselfevolutiongui,
+      title={SE-GA: Memory-Augmented Self-Evolution for GUI Agents}, 
+      author={Shilong Jin and Lanjun Wang and Zhuosheng Zhang},
+      year={2026},
+      eprint={2605.16883},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2605.16883}, 
 }
 ```
 
