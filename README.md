@@ -1,6 +1,6 @@
 # SE-GA: Memory-Augmented Self-Evolution for GUI Agents&#x20;
 
-[![arXiv](https://img.shields.io/badge/arXiv-2508.20453-b31b1b.svg)](https://arxiv.org/abs/2605.16883)
+[![arXiv](https://img.shields.io/badge/arXiv-2605.16883-b31b1b.svg)](https://arxiv.org/abs/2605.16883)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Paper: ICML 2026](https://img.shields.io/badge/Paper-ICML%202026-red.svg)](icml2026_SEGA.pdf)
 [![Dataset](https://img.shields.io/badge/🤗_HuggingFace-SE--GA-yellow)](https://huggingface.co/datasets/waterphd/SE-GA-dataset)
