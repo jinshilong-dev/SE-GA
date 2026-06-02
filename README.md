@@ -5,6 +5,7 @@
 [![Paper: ICML 2026](https://img.shields.io/badge/Paper-ICML%202026-red.svg)](https://icml.cc/virtual/2026/poster/65853)
 [![Dataset](https://img.shields.io/badge/🤗_HuggingFace-SE--GA-yellow)](https://huggingface.co/datasets/waterphd/SE-GA-dataset)
 [![Project Page](https://img.shields.io/badge/Project%20Page-Homepage-blue)](https://jinshilong-dev.github.io/SE-GA-project/)
+[![Model](https://img.shields.io/badge/🤗_HuggingFace-SE--GA-yellow)](https://huggingface.co/waterphd/SE-GA-7B)
 
 This is the implementation code for the paper "SE-GA: Memory-Augmented Self-Evolution for GUI Agents". This work has been accepted by ICML 2026.
 
