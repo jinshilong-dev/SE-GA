@@ -3,9 +3,9 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2605.16883-b31b1b.svg)](https://arxiv.org/abs/2605.16883)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Paper: ICML 2026](https://img.shields.io/badge/Paper-ICML%202026-red.svg)](https://icml.cc/virtual/2026/poster/65853)
-[![Dataset](https://img.shields.io/badge/🤗_HuggingFace-SE--GA-yellow)](https://huggingface.co/datasets/waterphd/SE-GA-dataset)
+[![Dataset](https://img.shields.io/badge/🤗_Dataset-yellow)](https://huggingface.co/datasets/waterphd/SE-GA-dataset)
 [![Project Page](https://img.shields.io/badge/Project%20Page-Homepage-blue)](https://jinshilong-dev.github.io/SE-GA-project/)
-[![Model](https://img.shields.io/badge/🤗_HuggingFace-SE--GA-yellow)](https://huggingface.co/waterphd/SE-GA-7B)
+[![Model](https://img.shields.io/badge/🤗_Model-yellow)](https://huggingface.co/waterphd/SE-GA-7B)
 
 This is the implementation code for the paper "SE-GA: Memory-Augmented Self-Evolution for GUI Agents". This work has been accepted by ICML 2026.
 
